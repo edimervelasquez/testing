@@ -1,0 +1,11 @@
+clonamos abrimos terminal y instalamos 
+
+ python -m pip install fastapi uvicorn pymysql
+
+ arrancamos el api con 
+
+ python -m uvicorn main:app --reload
+
+hay entramos a la direccion del api añidiendo al final docs
+
+probamos el api
